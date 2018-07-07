@@ -1,0 +1,2 @@
+backend=heroku/java
+frondend=heroku/nodejs
