@@ -1,2 +1,2 @@
-backend=heroku/java
-frondend=heroku/nodejs
+backend=https://github.com/heroku/heroku-buildpack-java.git
+frondend=https://github.com/heroku/heroku-buildpack-nodejs.git
